@@ -41,9 +41,9 @@
     alias debugbar='composer require barryvdh/laravel-debugbar --dev'
     
 ##### [PINT](https://laravel.com/docs/pint)
-alias pinti='composer require laravel/pint --dev'
-alias pintj='echo -e { \"preset\":\"laravel\" } >> pint.json'
-alias pint='./vendor/bin/pint'
+    alias pinti='composer require laravel/pint --dev'
+    alias pintj='echo -e { \"preset\":\"laravel\" } >> pint.json'
+    alias pint='./vendor/bin/pint'
 
 <a id="composer"></a>
 ##### [COMPOSER](https://getcomposer.org/)
