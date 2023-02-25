@@ -18,7 +18,7 @@
 
 <a id="artisan"></a>
 #### Artisan Console
-##### [php artisan](https://laravel.com/docs/artisan)
+##### [ARTISAN](https://laravel.com/docs/artisan)
     alias pa='php artisan'
     alias serve='pa serve'
     alias controller='pa make:controller'
