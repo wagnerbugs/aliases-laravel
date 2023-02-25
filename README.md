@@ -45,7 +45,9 @@
     alias pintj='echo -e { \"preset\":\"laravel\" } >> pint.json'
     alias pint='./vendor/bin/pint'
 
+    
 <a id="composer"></a>
+#### Composer
 ##### [COMPOSER](https://getcomposer.org/)
     alias ci='composer install'
     alias cu='composer update'
