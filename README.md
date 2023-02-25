@@ -27,7 +27,7 @@
     alias migrate='pa migrate'
     alias route='pa route:list'
     alias key="pa key:generate"
-    alias clean='pa config:clear && pa cache:clear && pa view:clear && pa route:clearc'
+    alias clean='pa config:clear && pa cache:clear && pa view:clear && pa route:clear'
 
 <a id="packages"></a>
 #### Packages Laravel
